@@ -8,7 +8,7 @@ import zipcode.Hamming;
 import static org.junit.Assert.assertEquals;
 
 
-public class HammingTest {
+public class HammingTest{
 
     @Rule
     public ExpectedException expectedException = ExpectedException.none();
